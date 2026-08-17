@@ -26,6 +26,34 @@ instance: the deliberative ground for "should I buy this, at this price, from th
 the person's own reasoning into an agent's optimization function, set by a platform whose incentives
 (capturing the transaction layer, see [drivers.md](drivers.md)) are not the same as the user's.
 
+## Tertiary mechanism: investment misallocation via the Larynx conflation
+
+The frontier-lab capex race ([signals.md](signals.md): OpenAI's $665bn committed data-center capacity
+against $25bn ARR) is funded on the premise that a more linguistically fluent, more capable general
+model constitutes progress toward higher-value intelligence. Wikström's *The Larynx Problem* (2026,
+SSRN preprint, not peer-reviewed) argues this equates the output channel of cognition (language) with
+cognition itself — a category error. If that argument holds, it predicts a specific mismatch: continued
+scaling improves fluency, not the thing users actually draw on. Per measured behavior (OpenAI's own
+NBER-published usage study — Chatterji et al., 2025), what people draw on is closer to faster,
+more convenient search and drafting than autonomous, multi-step delegation.
+
+This produces a widening gap between what capital is funding (general-purpose scale, chasing
+benchmark/fluency performance) and what usage data shows people doing with it (a narrow, stable
+substitute for existing simple behaviors) — a capital-allocation analogue to the palliation/subsumption
+gap above: formal metrics (benchmark scores, model scale) can keep climbing even as the thing that
+would justify the investment — genuinely new capability people adopt for genuinely new tasks — does
+not follow at the same rate.
+
+**What would falsify this:** if 2027–2030 usage data shows agentic, multi-step delegation actually
+displacing "seeking information" / "practical guidance" as the dominant use pattern — i.e., ordinary
+users adopt agent behavior at the rate the capex assumes — this mechanism is wrong and the capex is
+well-founded, not misallocated.
+
+**Evidentiary status:** the Larynx Problem's conceptual argument (category error, output-channel vs.
+generative architecture) is used here. Its own empirical section (Engine vs. LLM divergence, ρ = −0.25)
+is *not* — the paper's own status file flags that citation as unverified. See
+[sources.md](sources.md).
+
 ## Why this produces a legitimacy gap, not just a convenience gain
 
 The mechanism predicts a specific, falsifiable pattern: agentic delegation will be experienced as

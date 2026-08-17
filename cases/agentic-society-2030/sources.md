@@ -41,6 +41,10 @@ material.*
 - Remio. *DeepSeek Harness Launches, Putting the Agent Runtime Above the Model.*
   https://www.remio.ai/post/deepseek-harness-launches-putting-the-agent-runtime-above-the-model
   — dsh adoption figures (GitHub stars/forks), sub-agent invocation of Claude Code/Codex.
+- Chatterji, A., Cunningham, T., Deming, D., Hitzig, Z., Ong, C., Shan, C., & Wadman, K. (2025). *How
+  People Use ChatGPT.* NBER Working Paper No. 34255. https://www.nber.org/papers/w34255 —
+  1.5M+ conversation study; Practical Guidance/Seeking Information/Writing ≈ 80% of usage; Seeking
+  Information characterized as a close substitute for web search.
 
 ## Author's own prior work drawn on for the mechanism analysis
 
@@ -50,6 +54,11 @@ material.*
   [Read free (open access, Zenodo)](https://zenodo.org/records/21474085).
 - Wikström, B. A. *Cognitive Subsumption: Capital and the Enclosure of the Deliberative Ground.*
   AI & SOCIETY (Springer). Under review — cite as such, not as published.
+- Wikström, B. A. (2026). *The Larynx Problem: Why Large Language Models Are Not Artificial
+  Intelligence.* SSRN preprint. **Preprint, not peer-reviewed** — the conceptual argument (category
+  error: LLMs model the output channel of cognition, not the generative architecture) is used in
+  [mechanisms.md](mechanisms.md); the paper's own empirical section (Engine vs. LLM, ρ = −0.25) rests
+  on an internally-flagged unverified citation and is deliberately **not** cited here.
 
 ## Verification note
 

@@ -28,6 +28,21 @@ The structural forces producing the signals in [signals.md](signals.md).
   are moving to restore legibility (can the person tell they're dealing with an agent?) rather than to
   slow delegation, because delegation itself has not yet produced a legible harm to regulate against.
 
+## Narrative / categorical
+
+- **The dominant industry narrative treats fluency gains as intelligence gains.** Capital deployed at
+  frontier scale (see [signals.md](signals.md): OpenAI's $665bn committed data-center capacity against
+  $25bn ARR) is premised on the idea that a more linguistically fluent, more capable general model is
+  progress toward higher-value intelligence. Wikström's *The Larynx Problem* (2026, SSRN preprint, not
+  peer-reviewed) argues this is a category error — LLMs model the output channel of cognition
+  (language), not the generative architecture that produces thought. See
+  [mechanisms.md](mechanisms.md).
+- **Measured usage does not track the narrative.** OpenAI's own NBER-published usage study (Chatterji
+  et al., 2025; 1.5M+ conversations) finds ~80% of ChatGPT use falls under Practical Guidance, Seeking
+  Information, and Writing — with Seeking Information explicitly characterized as "a close substitute
+  for web search." Ordinary use is stable and search-adjacent, not the autonomous, multi-step
+  delegation the capex race is funded against.
+
 ## Cultural
 
 - **A pre-existing convenience norm.** Two decades of service design, UX research, and "reduce
