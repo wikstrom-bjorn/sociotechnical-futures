@@ -26,6 +26,7 @@ material.*
 - Wikström, B. A. (2026). *The Age of No Resistance: Palliation, Friction Reduction, and the
   Structural Erosion of Social Integration.* Acta Sociologica. DOI:
   [10.1177/00016993261463089](https://doi.org/10.1177/00016993261463089). Peer-reviewed.
+  [Read free (open access, Zenodo)](https://zenodo.org/records/21474085).
 - Wikström, B. A. *Cognitive Subsumption: Capital and the Enclosure of the Deliberative Ground.*
   AI & SOCIETY (Springer). Under review — cite as such, not as published.
 
