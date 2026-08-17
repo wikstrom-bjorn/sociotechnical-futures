@@ -1,0 +1,1 @@
+# Strategic_Foresight_-_Innovation_Researcher
