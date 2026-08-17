@@ -20,6 +20,27 @@ material.*
   https://www.forrester.com/blogs/the-state-of-agentic-ai-in-2026-companies-are-chasing-few-are-catching/
   — referenced via search results; direct fetch failed (redirect error) during case-building, not used
   for specific figures in this case. Re-check before citing directly.
+- ValueAddVC. *OpenAI: $25B a Year, $14B Loss — Inside the Math (2026).*
+  https://valueaddvc.com/blog/openai-revenue-2026-25b-arr-a-20-9b-leaked-loss-and-why-anthropic-just-passed-it
+  — OpenAI 2026 operating-loss projection, cumulative losses to 2028, data-center capex commitment.
+- ValueAddVC. *Is Anthropic Profitable in 2026? Losses, Burn Rate, and Breakeven.*
+  https://valueaddvc.com/blog/is-anthropic-profitable-2026-losses-burn-rate-and-the-path-to-breakeven
+  — Anthropic's projected Q2 2026 operating profit, burn-rate trajectory, and its fragility against
+  Chinese open-weight price competition.
+- VKTR. *AI Model Prices Are Falling At The Worst Moment For The US Frontier Labs.*
+  https://www.vktr.com/ai-market/ai-model-prices-are-falling-at-the-worst-moment-for-the-us-frontier-labs/
+  — price pressure from open-weight competitors, context for the OpenAI/Anthropic split.
+- MarkTechPost. *DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent
+  Harness Where Everything is a Plugin.*
+  https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/
+  — dsh architecture, MIT license, plugin-first design philosophy.
+- VentureBeat. *DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API
+  with higher prices.*
+  https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices
+  — dsh positioning relative to Claude Code; release context.
+- Remio. *DeepSeek Harness Launches, Putting the Agent Runtime Above the Model.*
+  https://www.remio.ai/post/deepseek-harness-launches-putting-the-agent-runtime-above-the-model
+  — dsh adoption figures (GitHub stars/forks), sub-agent invocation of Claude Code/Codex.
 
 ## Author's own prior work drawn on for the mechanism analysis
 

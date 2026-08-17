@@ -36,9 +36,29 @@ Observable, sourced signals as of August 2026. See [sources.md](sources.md) for 
 - The regulatory reflex, in other words, is not yet "can this agent act" but "does the person on the
   other end know they're dealing with one" — a legitimacy question before it is a safety question.
 
+## Frontier-lab economics are splitting, and agent tooling is going plugin-first
+
+- OpenAI: $14bn non-GAAP operating loss projected for 2026, cumulative losses reaching $44bn by 2028,
+  against $665bn in committed data-center capacity — a capex/revenue mismatch, not a rounding error.
+  [ValueAddVC — OpenAI]
+- Anthropic, by contrast, projects its first quarterly operating profit (~$559m) in Q2 2026 — but that
+  margin is explicitly fragile: matching price cuts from Chinese open-weight competitors would erase
+  it. This is a **split**, not a uniform "frontier labs are all unprofitable" story — capex-heavy
+  scaling bets versus margin-disciplined ones. [ValueAddVC — Anthropic] [VKTR]
+- Against that backdrop, DeepSeek released Harness (dsh) as a developer preview on 13 August 2026 — an
+  open-source (MIT), plugin-first agent runtime where models, tools, skills, sessions, sandboxes, and
+  orchestration are all interchangeable modules, capable of invoking Claude Code or Codex as
+  sub-agents. 95,000+ GitHub stars within two days — one of the fastest adoption curves recorded for a
+  developer tool. [MarkTechPost] [VentureBeat] [Remio]
+
 ## What's not yet a strong signal (flagged, not asserted)
 
 - Large-scale, well-documented cases of agent-caused harm or trust collapse at population scale are
   not yet visible in the sources reviewed for this case — the 2026 evidence base is adoption
   statistics and regulatory response, not incident data. Any scenario built on "trust collapse" should
   be read as a plausible branch, not an observed trend. See [uncertainties.md](uncertainties.md).
+- Smaller, specialized, privately-run models displacing general-purpose frontier models is a plausible
+  extrapolation from the economics split above, not yet independently evidenced in the sources
+  reviewed here. Same for "ad-hoc, disposable tool-building" as a default 2030 pattern — dsh is a
+  strong existence-proof of the *architecture* that would enable this, not yet proof that it becomes
+  the dominant *behavior*. Needs its own driver/mechanism development, not a scenario claim yet.
